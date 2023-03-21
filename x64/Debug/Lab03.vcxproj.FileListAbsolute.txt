@@ -1,0 +1,2 @@
+D:\BYU-Idaho\4th Semester\CSE 230\230.03.Lab.GLDemo\x64\Debug\Lab03.exe
+C:\Users\squir\source\repos\Moon_Lander_Simulator\x64\Debug\Lab03.exe
